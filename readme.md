@@ -85,7 +85,7 @@
 
 - [MySQL基础+MySQL高级+MySQL优化+MySQL34道作业题 ](https://www.bilibili.com/video/BV1fx411X7BD)
 
-* MySQL必知必会 [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA) 密码:f1v9
+* MySQL必知必会 链接：https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA) 提取码:f1v9
 
 学习 MySQL 的时候切忌只看视频，一定要跟着敲 SQL 命令。上面推荐的视频的每一道课后题都要跟着敲。
 
@@ -124,30 +124,48 @@
 
 **操作系统**
 
-- 30天填自制操作系统 [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw) 密码:pxxr
-- 操作系统之哲学原理 [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg) 密码:hua7
-- 程序是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg) 密码:pbvh
-- **深入理解计算机操作系统** [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg) 密码:2toh
-- 现代操作系统 [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA) 密码:huk2
+- 30天填自制操作系统
+   链接：https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw 提取码:pxxr
+
+- 操作系统之哲学原理
+  链接：https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg 提取码:hua7
+
+- 程序是怎样跑起来的
+  链接：https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg 提取码:pbvh
+
+- **深入理解计算机操作系统**
+  链接：https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg 提取码:2toh
+
+- 现代操作系统
+  链接：https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA 提取码:huk2
 
 ---
 
  **计算机网络**
 
-- **网络是怎样连接的** [百度云下载链接](https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw) 密码:g983
-- **图解HTTP** [百度云下载链接](https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ) 密码:b42z
-- **图解TCP/IP** [百度云下载链接](https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA) 密码:5k3x
-- **计算机网络：自顶向下** [百度云下载链接](https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw) 密码:l77d
-- HTTP权威指南 [百度云下载链接](https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw) 密码:tqj8
-- UNIX网络编程 [百度云下载链接](https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w) 密码:4buy
+- **网络是怎样连接的**
+  链接：https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw 提取码:g983
+- **图解HTTP**
+  链接：https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ 提取码:b42z
+- **图解TCP/IP**
+  链接：https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA 提取码:5k3x
+- **计算机网络：自顶向下**
+  链接：https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw 提取码:l77d
+- HTTP权威指南
+  链接：https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw 提取码:tqj8
+- UNIX网络编程
+  链接：https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w 提取码:4buy
 
 ---
 
 **计算机组成原理**
 
-- 隐匿在计算机软硬件背后的语言 [百度云下载链接](https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ) 密码:6jiq
-- 大话计算机 [百度云下载链接](https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA) 密码:6j1o
-- 计算机是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA) 密码:er12
+- 隐匿在计算机软硬件背后的语言
+  链接：https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ 提取码:6jiq
+- 大话计算机
+  链接：https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA 提取码:6j1o
+- 计算机是怎样跑起来的
+  链接：https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA 提取码:er12
 
 ---
 
@@ -165,33 +183,32 @@
 
 * **并发编程的艺术** 
 
-  链接：https://pan.baidu.com/s/1TxZjweACgcScAnf2B_sB9w 
-  提取码：akqo 
+  链接：https://pan.baidu.com/s/1TxZjweACgcScAnf2B_sB9w   提取码：akqo 
 
 * **Java并发编程之美** 
 
-  链接：https://pan.baidu.com/s/12FfKQX4QkSwi8Uq6TmokRQ 
-  提取码：aqev 
+  链接：https://pan.baidu.com/s/12FfKQX4QkSwi8Uq6TmokRQ   提取码：aqev 
 
 * **Java并发编程实战** 
 
-  链接：https://pan.baidu.com/s/19XqMBrm-8rScukM-C8hUbA 
-  提取码：symw
+  链接：https://pan.baidu.com/s/19XqMBrm-8rScukM-C8hUbA   提取码：symw
 
 ---
 
 **Mysql数据库**
 
-- **高性能MySQL** [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg) 密码:gh5t
+- **高性能MySQL**
+  链接：https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg 提取码:gh5t
 
-- 深入浅出MySQL [百度云下载链接](https://pan.baidu.com/s/1gWJcwszv3CnjIRMzy--_rw) 密码:ju0h
+- 深入浅出MySQL
+  链接：https://pan.baidu.com/s/1gWJcwszv3CnjIRMzy--_rw 提取码:ju0h
 
 - Mysql是怎样运行的 
 
-  链接：https://pan.baidu.com/s/18zNUWpesg-t7KO6u0BRBZQ 
-  提取码：br2u 
-
-- **MySQL技术内幕InnoDB存储引擎** [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ) 密码:6g04
+  链接：https://pan.baidu.com/s/18zNUWpesg-t7KO6u0BRBZQ 提取码：br2u 
+  
+- **MySQL技术内幕InnoDB存储引擎** 
+  链接：https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ 提取码:6g04
 
 ---
 
@@ -199,13 +216,11 @@
 
 * **Redis设计与实现** 
 
-  链接：https://pan.baidu.com/s/1b8lq_b2POU-QSyvtsdaxdg 
-  提取码：l1yp 
+  链接：https://pan.baidu.com/s/1b8lq_b2POU-QSyvtsdaxdg   提取码：l1yp 
 
 * **Redis开发与运维** 
 
-  链接：https://pan.baidu.com/s/1gxEf1dZNbdjtkN7k5NEJUQ 
-  提取码：5y8n 
+  链接：https://pan.baidu.com/s/1gxEf1dZNbdjtkN7k5NEJUQ   提取码：5y8n 
 
 * **Redis深度历险** 
 
@@ -218,13 +233,11 @@
 
 *  Netty权威指南
 
-  链接：https://pan.baidu.com/s/1sVZFqMjKjsonvV_pMAgXyg 
-  提取码：3p2i
+  链接：https://pan.baidu.com/s/1sVZFqMjKjsonvV_pMAgXyg   提取码：3p2i
 
 * Netty实战
 
-  链接：https://pan.baidu.com/s/1zvjvFEB4SCwvOZIVov_EKA 
-  提取码：8o5p
+  链接：https://pan.baidu.com/s/1zvjvFEB4SCwvOZIVov_EKA   提取码：8o5p
 
 ---
 
