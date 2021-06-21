@@ -83,6 +83,8 @@
 
 #### MySQL 学习
 
+* MySQL必知必会 [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA) 密码:f1v9
+
 #### JDBC 学习
 
 #### Maven 学习
@@ -97,6 +99,103 @@
 ### 阶段四 SSM 到 Spring Boot
 
 ### 阶段五 准备面试, 巩固基础
+
+**所有书籍仅供学习使用**
+
+#### LeetCode
+
+#### 计算机基础
+
+##### 操作系统
+
+- 30天填自制操作系统 [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw) 密码:pxxr
+- 操作系统之哲学原理 [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg) 密码:hua7
+- 程序是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg) 密码:pbvh
+- **深入理解计算机操作系统** [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg) 密码:2toh
+- 现代操作系统 [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA) 密码:huk2
+
+##### 计算机网络
+
+- **计算机网络：自顶向下** [百度云下载链接](https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw) 密码:l77d
+- **图解HTTP** [百度云下载链接](https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ) 密码:b42z
+- **图解TCP/IP** [百度云下载链接](https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA) 密码:5k3x
+- **网络是怎样连接的** [百度云下载链接](https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw) 密码:g983
+- HTTP权威指南 [百度云下载链接](https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw) 密码:tqj8
+- UNIX网络编程 [百度云下载链接](https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w) 密码:4buy
+
+##### 计算机组成原理
+
+- 隐匿在计算机软硬件背后的语言 [百度云下载链接](https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ) 密码:6jiq
+- 大话计算机 [百度云下载链接](https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA) 密码:6j1o
+- 计算机是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA) 密码:er12
+
+### JVM
+
+* [尚硅谷JVM视频](https://www.bilibili.com/video/BV1PJ411n7xZ?from=search&seid=7262462400362845072)
+
+* **深入理解java虚拟机**   
+
+* [尚硅谷jvm笔记](https://www.yuque.com/u21195183/jvm/qpoa81) 
+
+### Java并发
+
+* **并发编程的艺术** 
+
+  链接：https://pan.baidu.com/s/1TxZjweACgcScAnf2B_sB9w 
+  提取码：akqo 
+
+* **Java并发编程之美** 
+
+  链接：https://pan.baidu.com/s/12FfKQX4QkSwi8Uq6TmokRQ 
+  提取码：aqev 
+
+* **Java并发编程实战** 
+
+  链接：https://pan.baidu.com/s/19XqMBrm-8rScukM-C8hUbA 
+  提取码：symw 
+
+### Mysql数据库
+
+- **高性能MySQL** [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg) 密码:gh5t
+
+- 深入浅出MySQL [百度云下载链接](https://pan.baidu.com/s/1gWJcwszv3CnjIRMzy--_rw) 密码:ju0h
+
+- Mysql是怎样运行的 
+
+  链接：https://pan.baidu.com/s/18zNUWpesg-t7KO6u0BRBZQ 
+  提取码：br2u 
+
+- **MySQL技术内幕InnoDB存储引擎** [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ) 密码:6g04
+
+### Redis
+
+* **Redis设计与实现** 
+
+  链接：https://pan.baidu.com/s/1b8lq_b2POU-QSyvtsdaxdg 
+  提取码：l1yp 
+
+* **Redis开发与运维** 
+
+  链接：https://pan.baidu.com/s/1gxEf1dZNbdjtkN7k5NEJUQ 
+  提取码：5y8n 
+
+* **Redis深度历险** 
+
+### Netty
+
+*  Netty权威指南
+
+  链接：https://pan.baidu.com/s/1sVZFqMjKjsonvV_pMAgXyg 
+  提取码：3p2i 
+
+* Netty实战
+
+  链接：https://pan.baidu.com/s/1zvjvFEB4SCwvOZIVov_EKA 
+  提取码：8o5p 
+
+* [尚硅谷netty视频](https://www.bilibili.com/video/BV1DJ411m7NR?from=search&seid=2608629258839127601)
+
+* [尚硅谷netty视频笔记](https://dongzl.github.io/netty-handbook/#/README)
 
 ### 阶段六 Java分布式与微服务
 
