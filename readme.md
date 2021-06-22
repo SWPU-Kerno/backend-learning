@@ -1,3 +1,5 @@
+
+
 # Kerno 后端仓库
 
 ## 推荐学习路线与资源
@@ -124,56 +126,59 @@
 
 **操作系统**
 
-- 30天填自制操作系统
+- 30天填自制操作系统  
    链接：https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw 提取码:pxxr
 
-- 操作系统之哲学原理
+- 操作系统之哲学原理  
   链接：https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg 提取码:hua7
 
-- 程序是怎样跑起来的
+- 程序是怎样跑起来的  
   链接：https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg 提取码:pbvh
 
-- **深入理解计算机操作系统**
+- **深入理解计算机操作系统**  
   链接：https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg 提取码:2toh
 
-- 现代操作系统
+- 现代操作系统  
   链接：https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA 提取码:huk2
 
 ---
 
  **计算机网络**
 
-- **网络是怎样连接的**
+- **网络是怎样连接的**  
   链接：https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw 提取码:g983
-- **图解HTTP**
+- **图解HTTP**  
   链接：https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ 提取码:b42z
-- **图解TCP/IP**
+- **图解TCP/IP**  
   链接：https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA 提取码:5k3x
-- **计算机网络：自顶向下**
+- **计算机网络：自顶向下**  
   链接：https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw 提取码:l77d
-- HTTP权威指南
+- HTTP权威指南  
   链接：https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw 提取码:tqj8
-- UNIX网络编程
+- UNIX网络编程  
   链接：https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w 提取码:4buy
 
 ---
 
 **计算机组成原理**
 
-- 隐匿在计算机软硬件背后的语言
+- 隐匿在计算机软硬件背后的语言  
   链接：https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ 提取码:6jiq
-- 大话计算机
+- 大话计算机  
   链接：https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA 提取码:6j1o
-- 计算机是怎样跑起来的
+- 计算机是怎样跑起来的  
   链接：https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA 提取码:er12
 
 ---
 
 **JVM**
 
-* [尚硅谷JVM视频](https://www.bilibili.com/video/BV1PJ411n7xZ?from=search&seid=7262462400362845072)
-* **深入理解java虚拟机** 
-* [尚硅谷jvm笔记](https://www.yuque.com/u21195183/jvm/qpoa81)
+- [尚硅谷JVM视频](https://www.bilibili.com/video/BV1PJ411n7xZ?from=search&seid=7262462400362845072)
+  
+- **深入理解java虚拟机** 
+  链接：https://pan.baidu.com/s/1H8G4e1b-T089VW9bnuQ7xw 提取码：168h 
+
+- [尚硅谷jvm笔记](https://www.yuque.com/u21195183/jvm/qpoa81)
 
 ---
 
@@ -181,48 +186,44 @@
 
 - [黑马程序员全面深入学习java并发编程](https://www.bilibili.com/video/BV16J411h7Rd)
 
-* **并发编程的艺术** 
-
+- **并发编程的艺术**  
   链接：https://pan.baidu.com/s/1TxZjweACgcScAnf2B_sB9w   提取码：akqo 
 
-* **Java并发编程之美** 
-
+- **Java并发编程之美**   
   链接：https://pan.baidu.com/s/12FfKQX4QkSwi8Uq6TmokRQ   提取码：aqev 
 
-* **Java并发编程实战** 
-
+- **Java并发编程实战**   
   链接：https://pan.baidu.com/s/19XqMBrm-8rScukM-C8hUbA   提取码：symw
 
 ---
 
 **Mysql数据库**
 
-- **高性能MySQL**
+- **高性能MySQL**  
   链接：https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg 提取码:gh5t
 
-- 深入浅出MySQL
+- 深入浅出MySQL  
   链接：https://pan.baidu.com/s/1gWJcwszv3CnjIRMzy--_rw 提取码:ju0h
 
-- Mysql是怎样运行的 
+- Mysql是怎样运行的   
 
   链接：https://pan.baidu.com/s/18zNUWpesg-t7KO6u0BRBZQ 提取码：br2u 
   
-- **MySQL技术内幕InnoDB存储引擎** 
+- **MySQL技术内幕InnoDB存储引擎**  
   链接：https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ 提取码:6g04
 
 ---
 
 **Redis**
 
-* **Redis设计与实现** 
-
+- **Redis设计与实现**  
   链接：https://pan.baidu.com/s/1b8lq_b2POU-QSyvtsdaxdg   提取码：l1yp 
 
-* **Redis开发与运维** 
-
+- **Redis开发与运维**  
   链接：https://pan.baidu.com/s/1gxEf1dZNbdjtkN7k5NEJUQ   提取码：5y8n 
 
-* **Redis深度历险** 
+- **Redis深度历险** 
+  链接：https://pan.baidu.com/s/1rAHSdaEkKAMp9l2WsieOeQ   提取码：hl09 
 
 ---
 
@@ -232,11 +233,9 @@
 - [尚硅谷netty视频笔记](https://dongzl.github.io/netty-handbook/#/README)
 
 *  Netty权威指南
-
   链接：https://pan.baidu.com/s/1sVZFqMjKjsonvV_pMAgXyg   提取码：3p2i
 
 * Netty实战
-
   链接：https://pan.baidu.com/s/1zvjvFEB4SCwvOZIVov_EKA   提取码：8o5p
 
 ---
@@ -272,12 +271,9 @@
 
 ## 仓库维护日志
 
-如果你想在这个仓库中添加更多的内容或者优化该仓库，请提交 pull request 。
+**如果你想在这个仓库中添加更多的内容或者优化仓库内容，请 fork 本仓库，并提交 pull request 。**
 
----
 
 2020/6/21 完善整体路线、添加推荐书籍
-
----
 
 2021/6/20 新建仓库
