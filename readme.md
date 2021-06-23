@@ -95,6 +95,8 @@
 
 #### Maven 学习
 
+#### Git 学习
+
 #### MyBatis 学习
 
 #### 使用已经学习到的知识写一个项目
@@ -121,6 +123,13 @@
 ---
 
 **算法**
+
+- 《算法（第4版）》本书翻译自 《Algorithms, 4th Edition》配合其官网使用
+- alg4官网：https://algs4.cs.princeton.edu/home/ （英文网站，硬啃）
+  - 《Alg4》书本源码：https://github.com/jimmysuncpt/Algorithms
+- 《剑指Offer》：快餐式书籍，面试前的准备
+- 在线刷题OJ：[LeetCode](https://leetcode-cn.com/) | [牛客](https://www.nowcoder.com/) 
+- 📚书籍：https://pan.baidu.com/s/1LmUQI5IeFsGz0xV86x0wEw 提取码：upzl
 
 ---
 
@@ -240,6 +249,23 @@
 
 ---
 
+**设计模式**
+
+- [黑马设计模式](https://www.bilibili.com/video/BV1Np4y1z7BU) （不推荐看视频，建议直接看书，目前没有好的视频2021/6/23）
+
+- 「**菜鸟教程|设计模式**」：https://www.runoob.com/design-pattern/design-pattern-tutorial.html
+- 「**Refactoring.Guru**」：https://refactoringguru.cn/design-patterns
+- 📚书籍：《设计模式之禅 第二版》《重学Java设计模式》
+  - 链接：https://pan.baidu.com/s/1E1DJ3VVOm6EvM4wR0QoSAw 提取码：asg4
+
+---
+
+**Git**
+
+- [尚硅谷Git](https://www.bilibili.com/video/BV1vy4y1s7k6) 
+- [菜鸟教程|图解Git](https://www.runoob.com/w3cnote/git-graphical.html)
+- [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
+
 ### 阶段六 Java分布式与微服务
 
 ### 阶段七
@@ -256,6 +282,7 @@
 - [小林Coding](https://www.cnblogs.com/xiaolincoding)
 - [bugstack虫洞栈](https://bugstack.cn/)
 - [徐靖峰|个人博客](https://lexburner.github.io/)
+- [廖雪峰官方博客](https://www.liaoxuefeng.com/)
 
 推荐使用 Inoreader(Chrome插件) 订阅这些博客，获取更新推送。
 
@@ -272,6 +299,8 @@
 ## 仓库维护日志
 
 **如果你想在这个仓库中添加更多的内容或者优化仓库内容，请 fork 本仓库，并提交 pull request 。**
+
+2021/6/23 添加Git、设计模式、算法推荐资料
 
 
 2020/6/21 完善整体路线、添加推荐书籍
