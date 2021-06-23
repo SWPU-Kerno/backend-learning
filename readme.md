@@ -256,6 +256,7 @@
 - [小林Coding](https://www.cnblogs.com/xiaolincoding)
 - [bugstack虫洞栈](https://bugstack.cn/)
 - [徐靖峰|个人博客](https://lexburner.github.io/)
+- [廖雪峰官方博客](https://www.liaoxuefeng.com/)
 
 推荐使用 Inoreader(Chrome插件) 订阅这些博客，获取更新推送。
 
