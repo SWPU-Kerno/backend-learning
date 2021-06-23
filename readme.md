@@ -122,6 +122,13 @@
 
 **算法**
 
+- 《算法（第4版）》本书翻译自 《Algorithms, 4th Edition》配合其官网使用
+- alg4官网：https://algs4.cs.princeton.edu/home/ （英文网站，硬啃）
+  - 《Alg4》书本源码：https://github.com/jimmysuncpt/Algorithms
+- 《剑指Offer》：快餐式书籍，面试前的准备
+- 在线刷题OJ：[LeetCode](https://leetcode-cn.com/) | [牛客](https://www.nowcoder.com/) 
+- 📚书籍：https://pan.baidu.com/s/1LmUQI5IeFsGz0xV86x0wEw 提取码：upzl
+
 ---
 
 **操作系统**
