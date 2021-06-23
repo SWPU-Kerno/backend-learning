@@ -95,6 +95,8 @@
 
 #### Maven 学习
 
+#### Git 学习
+
 #### MyBatis 学习
 
 #### 使用已经学习到的知识写一个项目
@@ -255,6 +257,14 @@
 - 「**Refactoring.Guru**」：https://refactoringguru.cn/design-patterns
 - 📚书籍：《设计模式之禅 第二版》《重学Java设计模式》
   - 链接：https://pan.baidu.com/s/1E1DJ3VVOm6EvM4wR0QoSAw 提取码：asg4
+
+---
+
+**Git**
+
+- [尚硅谷Git](https://www.bilibili.com/video/BV1vy4y1s7k6) 
+- [菜鸟教程|图解Git](https://www.runoob.com/w3cnote/git-graphical.html)
+- [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
 
 ### 阶段六 Java分布式与微服务
 
