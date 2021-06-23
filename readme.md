@@ -240,6 +240,15 @@
 
 ---
 
+**设计模式**
+
+- [黑马设计模式](https://www.bilibili.com/video/BV1Np4y1z7BU) （不推荐看视频，建议直接看书，目前没有好的视频2021/6/23）
+
+- 「**菜鸟教程|设计模式**」：https://www.runoob.com/design-pattern/design-pattern-tutorial.html
+- 「**Refactoring.Guru**」：https://refactoringguru.cn/design-patterns
+- 📚书籍：《设计模式之禅 第二版》《重学Java设计模式》
+  - 链接：https://pan.baidu.com/s/1E1DJ3VVOm6EvM4wR0QoSAw 提取码：asg4
+
 ### 阶段六 Java分布式与微服务
 
 ### 阶段七
